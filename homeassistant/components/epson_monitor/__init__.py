@@ -1,6 +1,6 @@
 """The epson integration."""
 import logging
-#11133336666
+
 
 from pypjlink import MUTE_AUDIO, Projector
 from pypjlink.projector import ProjectorError
